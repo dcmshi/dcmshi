@@ -45,16 +45,11 @@ Things built to stop doing something by hand.
 - [`task-scheduler`](https://github.com/dcmshi/task-scheduler) — adaptive scheduling, in Go
 - [`chatime-bot`](https://github.com/dcmshi/chatime-bot) — orders bubble tea for the team
 
-### \* THE TRUE LAB
-
-Closer to the metal.
-
-- [`pebbledoro`](https://github.com/dcmshi/pebbledoro) — pomodoro timer for the Pebble watch, in C
-
 ### \* THE RUINS
 
 Old saves. Left where they fell.
 
+- [`pebbledoro`](https://github.com/dcmshi/pebbledoro) — pomodoro timer for the Pebble watch, in C
 - [`math-notes`](https://github.com/dcmshi/math-notes) — TeX, since 2016
 - [`rebase-demo`](https://github.com/dcmshi/rebase-demo) — git gud at rebase
 - [`game-of-life`](https://github.com/dcmshi/game-of-life) — Conway's, naturally

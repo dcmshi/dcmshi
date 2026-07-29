@@ -17,7 +17,6 @@ The bulk of it. Mostly things I wanted to play with friends.
 
 - [`set-game`](https://github.com/dcmshi/set-game) — realtime pattern matching, in the browser
 - [`sichuan-mahjong`](https://github.com/dcmshi/sichuan-mahjong) — play sichuan mahjong with friends
-- [`bmhero-arena`](https://github.com/dcmshi/bmhero-arena) — arena brawler, written in C
 - [`bust-a-move`](https://github.com/dcmshi/bust-a-move) — the classic, originally in Turing
 - [`blocks`](https://github.com/dcmshi/blocks) — puzzle game, no dependencies
 
@@ -50,7 +49,6 @@ Things built to stop doing something by hand.
 
 Closer to the metal.
 
-- [`BMHeroRecomp`](https://github.com/dcmshi/BMHeroRecomp) — static recompilation of an N64 title
 - [`pebbledoro`](https://github.com/dcmshi/pebbledoro) — pomodoro timer for the Pebble watch, in C
 
 ### \* THE RUINS

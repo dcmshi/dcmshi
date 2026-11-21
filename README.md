@@ -11,3 +11,8 @@
 ░█░▄▀█░▄▀░░█░▄▀█░▄▀░
 ░░▀░░░▀░░░░░▀░░░▀░░░
 ```
+
+```
+*  A small white dog is here.
+   It has no business being in this README.
+```
